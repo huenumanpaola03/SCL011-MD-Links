@@ -1,4 +1,28 @@
 {
-  "name": "md-links",
-  "version": "0.1.0"
+  "name": "md-links-paola",
+  "version": "0.1.0",
+  "description": "## Índice",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huenumanpaola03/SCL011-MD-Links.git"
+  },
+  "keywords": [
+    "md-links"
+  ],
+  "author": "Paola Huenuman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huenumanpaola03/SCL011-MD-Links/issues"
+  },
+  "homepage": "https://github.com/huenumanpaola03/SCL011-MD-Links#readme",
+  "dependencies": {
+    "fetch": "^1.1.0"
+  }
 }
